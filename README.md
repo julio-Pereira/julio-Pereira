@@ -30,6 +30,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
+[![Julio Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=julio-Pereira)](https://github.com/julio-Pereira/github-readme-stats)
+
 <br><br>
 
 <!--
