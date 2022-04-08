@@ -10,14 +10,10 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
 [![Julio Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=julio-Pereira&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/julio-Pereira/github-readme-stats)
 
 
 <br><br>
-
-## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
