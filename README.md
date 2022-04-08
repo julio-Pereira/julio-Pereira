@@ -12,7 +12,7 @@
 
 [![Julio Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=julio-Pereira&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/julio-Pereira/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-Pereira)](https://github.com/julio-Pereira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-Pereira&layout=compact&theme=dracula)](https://github.com/julio-Pereira/github-readme-stats)
 
 <br><br>
 
