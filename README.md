@@ -30,7 +30,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-[![Julio Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=julio-Pereira&count_private=true&show_icons=true&theme=dracula)](https://github.com/julio-Pereira/github-readme-stats)
+[![Julio Pereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=julio-Pereira&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/julio-Pereira/github-readme-stats)
 
 
 <br><br>
