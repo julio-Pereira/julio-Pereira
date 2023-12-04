@@ -1,9 +1,7 @@
 
 <h1 align="left">Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </br> I'm Julio Pereira</h1>
 
-- 🔥 Software Developer
-
-- 🔭 I’m currently Studying at [Trybe](https://www.betrybe.com/)
+- 🔥 Software Engineer
 
 - 👨‍💻 All of my projects are available at [Github - Julio Pereira](https://github.com/julio-Pereira)
 
